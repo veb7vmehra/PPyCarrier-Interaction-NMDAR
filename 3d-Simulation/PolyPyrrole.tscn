@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://PolyPyrrole.gd" type="Script" id=1]
+
+[sub_resource type="SphereShape" id=1]
+
+[node name="PolyPyrrole" type="KinematicBody"]
+script = ExtResource( 1 )
+
+[node name="Camera" type="Camera" parent="."]
+transform = Transform( 1, 0, 0, 0, 0.827022, 0.56217, 0, -0.56217, 0.827022, -0.192099, 7.36008, 13.594 )
+
+[node name="CollisionShape" type="CollisionShape" parent="."]
+shape = SubResource( 1 )

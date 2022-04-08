@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Structure2D_CID_8027.obj-40c6c426601ea7f0e529a9d1609fa68c.mesh"
+
+[deps]
+
+files=[ "res://.import/Structure2D_CID_8027.obj-40c6c426601ea7f0e529a9d1609fa68c.mesh" ]
+
+source_file="res://Structure2D_CID_8027.obj"
+dest_files=[ "res://.import/Structure2D_CID_8027.obj-40c6c426601ea7f0e529a9d1609fa68c.mesh", "res://.import/Structure2D_CID_8027.obj-40c6c426601ea7f0e529a9d1609fa68c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

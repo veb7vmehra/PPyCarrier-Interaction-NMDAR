@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pyrrole.obj-b216580774a8b161f23a88c71be3a987.mesh"
+
+[deps]
+
+files=[ "res://.import/pyrrole.obj-b216580774a8b161f23a88c71be3a987.mesh" ]
+
+source_file="res://pyrrole.obj"
+dest_files=[ "res://.import/pyrrole.obj-b216580774a8b161f23a88c71be3a987.mesh", "res://.import/pyrrole.obj-b216580774a8b161f23a88c71be3a987.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
